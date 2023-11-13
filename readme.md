@@ -25,4 +25,4 @@ Hey there! This is a project I'm working on to learn some backend development wi
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/starring-app.git
+   git clone https://github.com/MitvaVirvadiya/backend-basics.git
